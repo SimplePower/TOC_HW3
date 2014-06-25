@@ -8,6 +8,7 @@
 //如果有對到就把交易金額取出來累加到price
 //每比對到一次amount就加一
 //最後每一筆資料都比對完, 就計算平均價格存入avg_price, 然後印出來
+//測資: http://www.datagarage.io/api/5385b69de7259bb37d925971
 
 import org.json.*;
 import java.io.*;
